@@ -1,5 +1,5 @@
 
-I'm Graziano, an enthusiastic junior full-stack web developer. 💻 I love challenges and thrive on creating elegant solutions for real-world problems. 
+I'm Graziano, an enthusiastic junior full-stack web developer. 💻 I love challenges and thrive on creating elegant solutions for real-world problems.
 Here's a bit about me:
 	•	🚀 Currently fine-tuning my skills in full-stack development, with a special focus on Vue.js, Vite, Java and Laravel.
 	•	💡 Always eager to learn and explore new technologies. I believe in continuous improvement and staying ahead in the ever-evolving tech landscape.
@@ -31,9 +31,9 @@ Here's a bit about me:
 
 
 
-👋 Hi, I am Graziano Paladino
+👋 Hi, I'm Graziano, an enthusiastic junior full-stack web developer. 💻 I love challenges and thrive on creating elegant solutions for real-world problems.
 
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+Connect with me on LinkedIn.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/graziano-paladino-b301131ab/)](https://www.linkedin.com/in/graziano-paladino-b301131ab/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=paladino.graziano@gmail.com)](mailto:paladino.graziano@gmail.com)
