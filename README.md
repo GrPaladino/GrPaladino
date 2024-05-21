@@ -1,5 +1,6 @@
 
-I'm Graziano, an enthusiastic junior full-stack web developer. 💻 I love challenges and thrive on creating elegant solutions for real-world problems. Here's a bit about me:
+I'm Graziano, an enthusiastic junior full-stack web developer. 💻 I love challenges and thrive on creating elegant solutions for real-world problems. 
+Here's a bit about me:
 	•	🚀 Currently fine-tuning my skills in full-stack development, with a special focus on Vue.js, Vite, Java and Laravel.
 	•	💡 Always eager to learn and explore new technologies. I believe in continuous improvement and staying ahead in the ever-evolving tech landscape.
 	•	🌐 On the front end, I enjoy crafting responsive and intuitive user interfaces using HTML, Css, Sass, and JavaScript (with a touch of Bootstrap and Font Awesome).
